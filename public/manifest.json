@@ -1,0 +1,9 @@
+{
+  "short_name": "Cylera Hiring",
+  "name": "Cylera Hiring Full-stack Engineer",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
